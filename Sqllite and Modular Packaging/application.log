@@ -1,0 +1,7 @@
+2023-04-22 16:47:50,809 - root - INFO - Reading file data
+2023-04-22 16:47:51,779 - root - INFO - Reducing file content
+2023-04-22 16:47:52,573 - root - INFO - Filtering file contents
+2023-04-22 16:47:59,699 - root - INFO - Creating table File1
+2023-04-22 16:47:59,703 - root - INFO - Inserting data
+2023-04-22 16:48:19,085 - root - INFO - Creating table File1
+2023-04-22 16:48:21,437 - root - INFO - Inserting data
