@@ -1,0 +1,11 @@
+go to ineuron.ai
+list donw all the courses
+one by one scrap all the course page
+collect all the data segment wise
+store this data in mysql system/mongo db
+deploy it on heroku, AWS, GCP
+share a deployed link
+optional - create a ui and showcase in html
+
+
+always use codin standards - classes/objects/logging/exception
